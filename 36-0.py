@@ -1,0 +1,8 @@
+class Person:
+    name="小甲鱼"
+    def printName(self):
+        print(self.name)
+
+a=Person()
+a.printName()
+        
